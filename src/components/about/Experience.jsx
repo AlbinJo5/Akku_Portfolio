@@ -2,7 +2,7 @@ import React from "react";
 
 const experienceContent = [
   {
-    year: "   Aug 2022  - Sep 2022",
+    year: "   Nov 2022  - Dec 2022",
     position: " UI Designer",
     compnayName: "Trentit Pvt Limited",
     details: `  Creation of a unique yet easily comprehensible recommence platform`,
